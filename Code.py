@@ -33,3 +33,4 @@ while True:
     else:
         print(f"Congratulations! You guessed the number {secret_number} in {attempts} attempts.")
         break  # End the game
+    
